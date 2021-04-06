@@ -7,3 +7,14 @@
 However, Binder service can provide an alternative. Following are two examples of `learnr` tutorials running on Binder.
 
 Lecciones del curso: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/manjago85/UCR-II0306/master?urlpath=shiny/ii0306/)
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+Este trabajo est'a bajo una
+[Licencia Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
