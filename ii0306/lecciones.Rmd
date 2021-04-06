@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ### Exercise 
 
-*Here's a simple exercise with an empty code chunk provided for entering the answer.*
+*Esto es una prueba.*
 
 Write the R code required to add two plus two:
 
