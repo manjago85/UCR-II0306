@@ -6,4 +6,4 @@
 
 However, Binder service can provide an alternative. Following are two examples of `learnr` tutorials running on Binder.
 
-shiny/test1: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/manjago85/UCR-II0306/master?urlpath=shiny/ii0306/)
+Lecciones del curso: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/manjago85/UCR-II0306/master?urlpath=shiny/ii0306/)
